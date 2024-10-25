@@ -1,6 +1,9 @@
 # gitdemo
-# carate a repository
-# git init 
-# git add .
-# git commit -m "Add message"
-# git remote origin 
+1. carate a repository
+2. git init 
+3. git add .
+4. git commit -m "Add message"
+5. git remote add origin https://github.com/d-abhi/gitdemo.git
+6. git remote -v
+7. git push -u origin main
+8. 
